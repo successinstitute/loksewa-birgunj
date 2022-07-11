@@ -147,10 +147,10 @@ a:focus {
 }
 
 .navbar .navbar-brand {
-    margin: 20;
-    font-size: 0px;
+    margin: 0;
+    font-size: 45px;
     line-height: 0px;
-    font-weight: 0;
+    font-weight: 700;
     letter-spacing: 2px;
     transition: .5s;
     
@@ -172,7 +172,7 @@ a:focus {
     .navbar {
         position: absolute;
         width: 100%;
-        padding: 10px 30px;
+        padding: 30px 60px;
         background: transparent !important;
         border-bottom: 1px dashed rgba(256, 256, 256, .2);
         z-index: 9;
@@ -261,7 +261,7 @@ a:focus {
 .hero .hero-image {
     position: relative;
     text-align: right;
-    padding-right: 30px;
+    padding-right: 75px;
 }
 
 .hero .hero-image img {
@@ -287,8 +287,8 @@ a:focus {
 
 .hero .hero-text h1 {
     color: #ffffff;
-    font-size: 30px;
-    font-weight: 500;
+    font-size: 60px;
+    font-weight: 700;
     letter-spacing: 3px;
     margin-bottom: 15px;
 }
@@ -307,7 +307,7 @@ a:focus {
 }
 
 .hero .hero-text .typed-cursor {
-    font-size: 20px;
+    font-size: 35px;
     font-weight: 300;
     color: #ffffff;
 }
@@ -367,21 +367,21 @@ a:focus {
     .hero,
     .hero .hero-text,
     .hero .hero-btn {
-        width: 50%;
+        width: 100%;
         text-align: center;
     }
     
     .hero .hero-text p {
-        font-size: 10px;
+        font-size: 18px;
     }
     
     .hero .hero-text h1 {
-        font-size: 5px;
+        font-size: 35px;
     }
     
     .hero .hero-text h2 {
-        font-size: 10px;
-        height: 10px;
+        font-size: 22px;
+        height: 22px;
     }
     
     .hero .hero-btn .btn {
