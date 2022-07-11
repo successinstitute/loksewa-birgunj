@@ -367,7 +367,7 @@ a:focus {
     .hero,
     .hero .hero-text,
     .hero .hero-btn {
-        width: 100%;
+        width: 50%;
         text-align: center;
     }
     
