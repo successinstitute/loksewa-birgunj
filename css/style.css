@@ -372,16 +372,16 @@ a:focus {
     }
     
     .hero .hero-text p {
-        font-size: 18px;
+        font-size: 10px;
     }
     
     .hero .hero-text h1 {
-        font-size: 20px;
+        font-size: 5px;
     }
     
     .hero .hero-text h2 {
-        font-size: 22px;
-        height: 22px;
+        font-size: 10px;
+        height: 10px;
     }
     
     .hero .hero-btn .btn {
