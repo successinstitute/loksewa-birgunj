@@ -148,9 +148,9 @@ a:focus {
 
 .navbar .navbar-brand {
     margin: 0;
-    font-size: 30px;
+    font-size: 10px;
     line-height: 0px;
-    font-weight: 700;
+    font-weight: 500;
     letter-spacing: 2px;
     transition: .5s;
     
@@ -261,7 +261,7 @@ a:focus {
 .hero .hero-image {
     position: relative;
     text-align: right;
-    padding-right: 75px;
+    padding-right: 60px;
 }
 
 .hero .hero-image img {
@@ -307,7 +307,7 @@ a:focus {
 }
 
 .hero .hero-text .typed-cursor {
-    font-size: 35px;
+    font-size: 20px;
     font-weight: 300;
     color: #ffffff;
 }
@@ -376,7 +376,7 @@ a:focus {
     }
     
     .hero .hero-text h1 {
-        font-size: 35px;
+        font-size: 20px;
     }
     
     .hero .hero-text h2 {
